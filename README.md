@@ -9,4 +9,7 @@ required functions [draft, to review/edit]:
 - make lineplot of 3 countries
 - make barplot of 3 countries
 - make scatterplot of 2 countries
-- 
+
+
+### helpful functions 
+-  pycountry
