@@ -17,16 +17,25 @@ Read data from a .csv (2 csv's) from a country (3 countries) into dataframe and 
 **required functions and open tasks**:
 - [x] read data from a .csv to a dataframe
 - [x] bring country names from alpha3 to fullname for the plot describtion
-- [ ] make lineplot of 3 countries
+- [ ] 'load_oecd_csv_to_df_alpha3(file_path, *chosen_countries)' all countries to df
+- [ ] axis description and title of scatterplots
+- [ ] different colors for countries in scatterplots ('LOCATION' as column additionally to index)
+
+**open plots**:
+- [ ] make lineplot of 3 datasets
   - [x] first plot
   - [x] second plot
   - [ ] third plot
-- [ ] make barplot of 3 countries
+- [ ] make barplot of 3 datasets
   - [x] first plot
   - [ ] second plot
   - [ ] third plot
-- [ ] make scatterplot of 3 countries
+- [ ] make scatterplot of 3x2 datasets
   - [x] first plot
   - [ ] second plot
   - [ ] third plot
+- [ ] 3 EXTRA points if everything ready and still time and motivation
+  - [ ] 1-2 extra line plot(s)
+  - [ ] 1-2 extra bar plot(s)
+  - [ ] 1-2 extra scatter plot(s)
 
