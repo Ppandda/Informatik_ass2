@@ -9,6 +9,7 @@ give it a different name. Work in that new file and only(!) update the main file
   (1.) you tested the changes well and after (2.) you made sure that your changes improve the main file
 or (in case of editing existing functions) that they work better than the existing one's.
 - Have fun and enjoy :D!
+- (testreport also attached, for looking up potential errors or missing cases)
 
 ## Design - functions
 Read data from a .csv (2 csv's) from a country (3 countries) into dataframe and plot it (them).
