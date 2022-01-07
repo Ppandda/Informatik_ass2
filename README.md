@@ -18,10 +18,15 @@ Read data from a .csv (2 csv's) from a country (3 countries) into dataframe and 
 - [x] read data from a .csv to a dataframe
 - [x] bring country names from alpha3 to fullname for the plot describtion
 - [x] **[in file burns1: 18]** 'load_oecd_csv_to_df_alpha3(file_path, *chosen_countries)' all countries to df
-- [ ] axis description and title of scatterplots
-- [ ] different colors for countries in scatterplots ('LOCATION' as column additionally to index)
+- [x] axis description and title of scatterplots
+- [x] different colors for countries in scatterplots ('LOCATION' as column additionally to index)
 
-**open plots**:
+**optional functions and open tasks**:
+- [ ] different colors for continents in scatterplots ('continents' as column additionally)
+- [ ] 'load_oecd_csv_to_df_alpha3(file_path, *chosen_countries)' all countries to df --> deploy fullnames!!
+
+
+- **open plots**:
 - [ ] make lineplot of 3 datasets
   - [x] first plot
   - [x] second plot
