@@ -17,7 +17,7 @@ Read data from a .csv (2 csv's) from a country (3 countries) into dataframe and 
 **required functions and open tasks**:
 - [x] read data from a .csv to a dataframe
 - [x] bring country names from alpha3 to fullname for the plot describtion
-- [ ] 'load_oecd_csv_to_df_alpha3(file_path, *chosen_countries)' all countries to df
+- [x] **[in file burns1: 18]** 'load_oecd_csv_to_df_alpha3(file_path, *chosen_countries)' all countries to df
 - [ ] axis description and title of scatterplots
 - [ ] different colors for countries in scatterplots ('LOCATION' as column additionally to index)
 
