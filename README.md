@@ -28,7 +28,7 @@ Read data from a .csv (2 csv's) from a country (3 countries) into dataframe and 
   - [ ] third plot
 - [ ] make barplot of 3 datasets
   - [x] first plot
-  - [ ] second plot
+  - [x] second plot
   - [ ] third plot
 - [ ] make scatterplot of 3x2 datasets
   - [x] first plot
