@@ -26,7 +26,7 @@ Read data from a .csv (2 csv's) from a country (3 countries) into dataframe and 
 - [ ] 'load_oecd_csv_to_df_alpha3(file_path, *chosen_countries)' all countries to df --> deploy fullnames!!
 
 
-- **open plots**:
+**open plots**:
 - [ ] make lineplot of 3 datasets
   - [x] first plot
   - [x] second plot
