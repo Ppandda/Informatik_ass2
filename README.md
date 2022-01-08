@@ -22,5 +22,6 @@ Read data from a .csv (2 csv's) from a country (3 countries) into dataframe and 
 **optional functions and open tasks**:
 - [ ] different colors for continents in scatterplots ('continents' as column additionally)
 - [ ] 'load_oecd_csv_to_df_alpha3(file_path, *chosen_countries)' all countries to df --> deploy fullnames!!
-- [ ] Comine all 3 "prepare_scatterplot3_df" functions to One
+- [x] Comine all 3 "prepare_scatterplot3_df" functions to One
+- [ ] fit size of plots
 
